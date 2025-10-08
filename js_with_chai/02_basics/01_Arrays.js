@@ -38,13 +38,10 @@ const myn1=myarr2.slice(1,3)
 
 console.log(myn1)
 console.log("B",myarr2)
-
 console.log("A" ,myarr2)
 
 const myn2=myarr2.splice(1,3)
 
 console.log(myn2)
 console.log("B",myarr2)
-
-
 
